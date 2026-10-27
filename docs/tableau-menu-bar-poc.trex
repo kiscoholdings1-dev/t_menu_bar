@@ -10,14 +10,14 @@
     <name>Tableau Menu Bar POC</name>
     <description>POC for same-tab Tableau dashboard navigation.</description>
 
-    <author name="TakYunhui"
-            email="gwalgwal98@naver.com"
-            website="https://takyunhui.github.io/tableau_menu_bar/" />
+    <author name="kiscoholdings1"
+            email="kiscoholdings1@gmail.com"
+            website="https://kiscoholdings1-dev.github.io/t_menu_bar/" />
 
     <min-api-version>1.7</min-api-version>
 
     <source-location>
-      <url>https://takyunhui.github.io/tableau_menu_bar/</url>
+      <url>https://kiscoholdings1-dev.github.io/t_menu_bar/</url>
     </source-location>
 
     <icon>iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMBAp+X2ZsAAAAASUVORK5CYII=</icon>
