@@ -25,7 +25,8 @@ window.TABLEAU_MENU_CONFIG = [
         dashboardNames: [
           "1. 영업 현황",
           "2. 민수 현황",
-          "3. 관수 현황",
+          "3. 민수 플젝 현황",
+          "4. 관수현황",
           "상세 - 프로젝트 DC 추이",
           "상세 - 민수 프로젝트",
           "상세 - 관수 프로젝트",
@@ -44,7 +45,12 @@ window.TABLEAU_MENU_CONFIG = [
     children: [
       {
         label: "생산 메인",
-        dashboardNames: ["1. 생산 현황", "2. 생산 효율"],
+        dashboardNames: ["1. 생산 현황",
+                         "2. 생산 효율",
+                         "상세 - 제강공장",
+                         "상세 - 압연공장",
+                         "상세 - 고장 내역"
+                        ],
         kind: "entry",
         url: "https://prod-apnortheast-a.online.tableau.com/t/kisco/views/__17809950247560/1__1",
       },
